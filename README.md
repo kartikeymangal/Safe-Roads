@@ -1,0 +1,2 @@
+Our project utilizes LSTM models to analyze historical traffic accident data and predict future trends, aiming to enhance traffic safety through actionable insights and informed decision-making. Our goal is to contribute to advancements in traffic accident analysis and prediction for safer roadways and improved transportation systems.
+This Streamlit application is an interactive tool for analyzing and predicting traffic accidents 📊. It enables users to visualize historical accident data and use a machine learning model 🧠 to predict future trends.
