@@ -1,7 +1,5 @@
-streamlit==1.29.0
+streamlit
 pandas
 numpy
 matplotlib
-seaborn
 scikit-learn
-tensorflow==2.13.0
